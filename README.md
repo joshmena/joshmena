@@ -4,6 +4,7 @@
 
 - <b>Vulnerability Management</b>
   - [Rapid7 VM API](https://github.com/joshmena/Vulnerability-Management)
+  - [Nmap Scan](https://github.com/joshmena/Network-Scan)
 - <b>Identity Access Management</b>
   - [CyberArk Automation](https://github.com/joshmena/CyberArk)
 - <b>PowerShell</b>
