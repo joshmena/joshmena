@@ -22,7 +22,7 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmena/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmena/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmena/Package-Delivery-Pathfinding-Algorithm)
+  - 
 
 
 [twitter]: https://twitter.com/joshmena
