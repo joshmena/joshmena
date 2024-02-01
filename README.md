@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshmena/">Cybersecurity Professional</a> & <a href="https://github.com/joshmadakor1">Programmer</a></h1>
+<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshmena/">Cybersecurity Professional</a> & <a href="https://github.com/joshmena">Programmer</a></h1>
 
 <h2>🔐 Cyber Security Projects:</h2>
 
