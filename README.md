@@ -18,7 +18,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmena/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmena/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>    
+  - [Image Analysis Middleware](https://github.com/joshmena/Image-Analysis-Middleware) <b><i>(Potentially NSFW)</b></i>    
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmena/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmena/DecrypterPOC)
