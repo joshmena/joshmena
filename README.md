@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Vulnerability Management</b>
- - [Rapid7 API]([https://github.com/joshmena/Vulnerability-Management/blob/main/Rapid7-PS.ps1)
+  - [Rapid7 VM API](https://github.com/joshmena/Vulnerability-Management)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
