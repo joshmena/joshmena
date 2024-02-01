@@ -4,6 +4,8 @@
 
 - <b>Vulnerability Management</b>
   - [Rapid7 VM API](https://github.com/joshmena/Vulnerability-Management)
+- <b>Identity Access Management</b>
+  - [CyberArk Automation](https://github.com/joshmena/CyberArk)
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
