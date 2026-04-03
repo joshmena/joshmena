@@ -1,43 +1,35 @@
-<h1>Hi, I'm Josh! <br/><a href="https://www.linkedin.com/in/joshmena/">Cybersecurity Professional</a> & <a href="https://github.com/joshmena">Programmer</a></h1>
+# Josh Mena
 
-<h2>🔐 Cyber Security Projects:</h2>
+**AI Security Architect** · Building trust architectures for LLM-backed systems in production
 
-- <b>Vulnerability Management</b>
-  - [Rapid7 VM API](https://github.com/joshmena/Vulnerability-Management)
-  - [Nmap Scan](https://github.com/joshmena/Network-Scan)
-  - [PSEXEC Detection](https://github.com/joshmena/PSExec)
-- <b>Identity Access Management</b>
-  - [CyberArk Automation](https://github.com/joshmena/CyberArk)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmena/AD_PS)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmena/Jwipe.ps)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmena/PowerShell-Integrity-FIM)
- 
-<h2>👨‍💻 Software Development Projects:</h2>
+17+ years in security engineering. Now focused on the problem most AI teams skip: making sure AI systems are not just capable, but verifiably safe to deploy.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmena/Algorithms-Practice) 
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmena/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmena/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmena/Key-Logger-With-Email)
-- <b>Python</b>
-  - [API Integrations](https://github.com/joshmena/Python)
+---
 
+### What I'm building
 
-[twitter]: https://twitter.com/joshmena
-[linkedin]: https://linkedin.com/in/joshmena
+🔒 **[ai-security-eval-harness](https://github.com/joshmena/ai-security-eval-harness)** — Security alert triage agent with a full evaluation suite, guardrail enforcement, failure pattern detection, and token cost tracking
 
-<!--
+🤖 **[multi-agent-secops](https://github.com/joshmena/multi-agent-secops)** — Planner-orchestrator system with specialist sub-agents and RAG-backed policy knowledge base for security investigations
 
-Here are some ideas to get you started:
+💰 **[llm-cost-analyzer](https://github.com/joshmena/llm-cost-analyzer)** — Token economics toolkit with model routing, blended cost calculation, and ROI analysis across Claude, GPT, and Gemini tiers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I think about
+
+- The gap between semantic correctness and functional correctness in production AI
+- Trust boundary design for agentic systems
+- Failure patterns in LLM-backed workflows: silent failures, sycophantic confirmation, specification drift
+- Making AI security a design discipline, not an afterthought
+
+---
+
+### Background
+
+- **Senior Security Platform Engineer** — Securing AI/LLM platforms and cloud infrastructure in fintech
+- **CISSP** · **CCSP** · **CEH** · **AWS Security Specialty**
+- MS Information Security · Python · Terraform · GCP · AWS · Azure
+- Previously: TradeStation, Assurant, Miami Dade College
+
+📫 josh.mena@proton.me · [LinkedIn](https://linkedin.com/in/joshmena)
